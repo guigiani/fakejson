@@ -1,8 +1,11 @@
 
 {
   "products": [
-    { "id": 1, "description": "Produto 1", "value": 35 },
-    { "id": 2, "description": "Produto 2", "value": 40 },
-    { "id": 3, "description": "Produto 3", "value": 55 }
+    { "id": 1, "description": "Tilápia crocante com farofa de banana-da-terra", "value": 35 },
+    { "id": 2, "description": "Tranche de salmão com arroz negro", "value": 40 },
+    { "id": 4, "description": "Tilápia grelhada", "value": 67 },
+    { "id": 5, "description": "Sogliola", "value": 98 },
+    { "id": 6, "description": "Linguado com fonduta di pomodoro", "value": 55 },
+    { "id": 7, "description": "Salmão grelhado", "value": 120 }
   ]
 }
