@@ -1,8 +1,8 @@
 
 {
   "products": [
-    { "id": 1, "description": "Produto 1", "value": 35.0 },
-    { "id": 2, "description": "Produto 2", "value": 40.0 },
-    { "id": 3, "description": "Produto 3", "value": 55.0 }
+    { "id": 1, "description": "Produto 1", "value": 35 },
+    { "id": 2, "description": "Produto 2", "value": 40 },
+    { "id": 3, "description": "Produto 3", "value": 55 }
   ]
 }
