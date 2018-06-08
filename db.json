@@ -1,24 +1,15 @@
+
 {
-	"products":[
-		{
-			"id":42,
-			"description":"Produto 1",
-			"value":150.00
-		},
-		{
-			"id":12,
-			"description":"Produto 2",
-			"value":200.50
-		},
-		{
-			"id":22,
-			"description":"Produto 3",
-			"value":110.00
-		},
-		{
-			"id":32,
-			"description":"Produto 4",
-			"value":100.00
-		}
-	]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
